@@ -1,0 +1,35 @@
+/*
+Credit: http://www.templatemo.com
+*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #999;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 1.5em; 
+	background-color: #ffffff;
+           
+}
+
+a, a:link, a:visited { color: #cfcd60; text-decoration: none; }
+a:hover { color:#9CF; text-decoration: underline; }
+
+blockquote { font-style: italic; margin-left: 10px;}
+cite { font-weight: bold; color:#000; }
+cite span { color: #333; }
+em { color: #CCC; }
+
+
+#menu{
+	margin-left: 250px;
+margin-right: 250px;
+}
+
+
+#form{
+
+padding: 20px;
+margin-top: 20px;
+}

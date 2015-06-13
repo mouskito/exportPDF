@@ -1,0 +1,226 @@
+
+strong{color:blue;}
+
+
+#tagline{
+	margin-left: 260px;
+padding-top: 89px;
+border: solid 2px black;
+	border-radius: 20px;
+}
+
+#logo{
+	border: solid 2px black;
+	border-radius: 20px;
+	float: left;
+}
+
+#bs-example-navbar-collapse-1{
+	background: yellow;
+	margin-top: -200px;
+}
+
+#header{
+	margin-bottom: 200px;
+}
+
+.navbar{
+	margin-bottom: -100px;
+	background-color: #F8F8F8;
+border-color: #E7E7E7;
+}
+
+.menuAb{
+	
+	margin-top: 35px;
+}
+
+#tagline h1{
+	color: red;
+}
+
+.carousel-container {
+
+  position:relative;
+
+  width:750px;
+
+}
+
+#carousel {
+
+  height:350px;
+
+  width:750px;
+
+  position:relative;
+
+  margin-bottom:0.5em;
+
+  font-size:12px;
+
+  font-family: Arial;
+
+background: none repeat scroll 0 0 #0099FF;
+}
+
+.carousel-image {
+
+  border:0;
+
+  display:block;
+
+  width: 500px;
+
+  height: 256px;
+
+
+}
+
+.carousel-feature {
+
+  position:absolute;
+
+  top:-1000px;
+
+  left:-1000px;
+
+  border:2px solid #5d5d5d;
+
+  cursor:pointer;
+
+}
+
+.carousel-feature .carousel-caption {
+
+  position:absolute;
+
+  bottom:0;
+
+  width:100%;
+
+  background-color:#636363;
+
+
+}
+
+.carousel-caption p {
+
+	color: red;
+}
+
+p {
+
+  margin:0;
+
+  padding:5px;
+
+  font-size:12px;
+
+  color:red;
+
+}
+
+.tracker-summation-container {
+
+  position:absolute;
+
+  color:white;
+
+  right:48px;
+
+  top:230px;
+
+  padding:3px;
+
+  margin:3px;
+
+  background-color:#000;
+
+  margin-top: -200px;
+
+  margin-right: 600px;
+
+  visibility: hidden;
+
+}
+
+.tracker-individual-container {
+
+  color:white;
+
+  right:48px;
+
+  top:210px;
+
+  padding:0;
+
+  margin:0;
+
+}
+
+.tracker-individual-container li {
+
+  list-style:none;
+
+}
+
+.tracker-individual-container .tracker-individual-blip {
+
+  margin:0 3px;
+
+  padding:0 3px;
+
+  color:white;
+
+  text-align:center;
+
+  background-color:#DDD;
+
+display: none;
+
+}
+
+.tracker-individual-container .tracker-individual-blip-selected {
+
+  color:white;
+
+  font-weight:bold;
+
+  background-color:#000;
+
+
+
+}
+
+#carousel-left {
+
+  position:absolute;
+
+  bottom:70px;
+
+  left:90px;
+
+  cursor:pointer;
+
+}
+
+#carousel-right {
+
+  position:absolute;
+
+  bottom:70px;
+
+  right:90px;
+
+  cursor:pointer;
+
+}
+
+
+.carousel-feature a img{
+border: solid 2px black;
+	border-radius: 40px;
+
+width:250px;
+	}
